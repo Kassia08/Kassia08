@@ -20,6 +20,8 @@
 <img src="./images/lineBar.png" width="100%" height="8px"/>
 
 <div><br />
+<br />
+<br />
 
 <p><a href="https://www.linkedin.com/in/kassia-moura-10775aa8/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=e03694&amp;color:#E03694" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/kassia.amour/"><img src="https://img.shields.io/badge/-Instagram-020114?style=for-the-badge&amp;logo=instagram&amp;logoColor=e03694&amp;color:#E03694" alt="Instagram"></a>
@@ -30,9 +32,17 @@
 
 <img align="right" alt="gif" src="./images/download.gif" width="10%" />
 
+<br />
+<br />
+
 ## Technologies
 
 <img src="https://skillicons.dev/icons?i=html,css,js,cs,vscode,dotnet,git,github&theme=dark" />
+
+<br />
+<br />
+<br />
+<br />
 
 ## About me
 
