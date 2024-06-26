@@ -11,9 +11,7 @@
 
 <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kassia08&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kassia08&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kassia08&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kassia08&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   
 </div>
 
@@ -22,6 +20,15 @@
 <img src="./images/lineBar.png" width="100%" height="8px"/>
 
 <div><br />
+
+<p><a href="https://www.linkedin.com/in/kassia-moura-10775aa8/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=e03694&amp;color:#E03694" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/kassia.amour/"><img src="https://img.shields.io/badge/-Instagram-020114?style=for-the-badge&amp;logo=instagram&amp;logoColor=e03694&amp;color:#E03694" alt="Instagram"></a>
+    <a href="https://github.com/Kassia08"><img src="https://img.shields.io/badge/-Github-020114?style=for-the-badge&amp;logo=github&amp;logoColor=e03694&amp;color:#E03694" alt="Github"></a>
+    <a href="mailto:kassiadesigners@gmail.com"><img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=e03694&amp;color:#E03694" alt="E-mail"></a>
+</p>
+
+
+<img align="right" alt="gif" src="./images/download.gif" width="10%" />
 
 ## Technologies
 
@@ -47,10 +54,5 @@
 
 
 
-## Contact Me
 
-<p><a href="https://www.linkedin.com/in/kassia-moura-10775aa8/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/kassia.amour/"><img src="https://img.shields.io/badge/-Instagram-020114?style=for-the-badge&amp;logo=instagram&amp;logoColor=6ED2B6&amp;color:FFF" alt="Instagram"></a>
-    <a href="https://github.com/Kassia08"><img src="https://img.shields.io/badge/-Github-020114?style=for-the-badge&amp;logo=github&amp;logoColor=6ED2B6&amp;color:FFF" alt="Github"></a>
-    <a href="mailto:kassiadesigners@gmail.com"><img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail"></a>
-</p>
+![snake gif](https://github.com/Kassia08/Kassia08/blob/output/github-contribution-grid-snake.svg)
