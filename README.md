@@ -55,4 +55,4 @@
 
 
 
-![snake gif](https://github.com/Kassia08/Kassia08/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Kassia08/blob/output/github-contribution-grid-snake.svg)
